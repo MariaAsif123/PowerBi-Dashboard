@@ -1,5 +1,5 @@
 # HR Analytics Dashboard
-This project is an interactive **HR Analytics Dashboard** built in **Power BI** to analyze employee attrition patterns and key HR metrics using real-world data. The dashboard provides a clear and intuitive view into areas such as attrition rate, age distribution, job roles, salary bands, and more — helping organizations make data-driven decisions to improve employee retention and satisfaction.
+This project is an interactive **HR Analytics Dashboard** built in **Power BI** to analyze employee attrition patterns and key HR metrics using real-world data. The dashboard provides a clear and intuitive view into areas such as attrition rate, age distribution, job roles, salary bands, and more helping organizations make data-driven decisions to improve employee retention and satisfaction.
 ## Dashboard Overview
 The dashboard answers key business questions such as:
 - What is the overall **attrition rate**?
